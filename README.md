@@ -36,6 +36,8 @@ OS + Web Technologies
 - Batch : FCFS, Shortest Job First, Shortest Remaining Time First (Pre-emption)
   Reduce Turnaround Time, Increase Throughput
 - Interactive : Optimize response time, pre-emption  
+- Round Robin
+- Quantum Size > CPU Burst Size
   
 
 ## TSL (Test and Set Lock)
@@ -44,3 +46,6 @@ OS + Web Technologies
 
 ## Process State Model
   Blocked -> Ready -> Running
+  
+## ReadyQ
+- effective_priority() returns dynamic priority
