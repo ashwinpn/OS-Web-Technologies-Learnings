@@ -41,3 +41,6 @@ OS + Web Technologies
 ## TSL (Test and Set Lock)
 
 ## Peterson Solution
+
+## Process State Model
+  Blocked -> Ready -> Running
