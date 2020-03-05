@@ -12,7 +12,8 @@ OS + Web Technologies
 - React has an Unidirection flow of logic
 - JSX - supports HTML embedding inside ES5 JS code
 - Virtual DOM <- copy of tree structure of original DOM (Document Object Model)
-- React based apps can be considered as "View" part in model view controller
+- React based apps can be considered as "View" part in model view controller so React apps are easily portable
+- React v/s Angular?
 
 ## Accelerated Mobile Pages (AMP's)
 
