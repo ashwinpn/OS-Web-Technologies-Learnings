@@ -1,6 +1,13 @@
 # OS-Web-Technologies-Learnings
 OS + Web Technologies
 
+## NoSQL databases
+- key value pairs based ; Redis, mongoDB, DynamoDB
+- When should we use NoSQL?
+  Though NoSQL databases have been optimized to handle applications dealing with huge volumes of data, it is important to keep in mind that we explicity know which common queries are w.r.t specific use cases.
+[DynamoDB AWS Recommendations](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-general-nosql-design.html#bp-general-nosql-design-vs-relational)
+- "Relational DB's are optimized for flexible querying".
+
 ## JavaScript
 - Event Loop - Async, Wait, and CallBack
 - How efficient are Promises?
