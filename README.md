@@ -1,6 +1,9 @@
 # OS-Web-Technologies-Learnings
 OS + Web Technologies
 
+## 3-26-2020
+- Tree Shaking : https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking
+
 ## NoSQL databases
 - key value pairs based ; Redis, mongoDB, DynamoDB
 - When should we use NoSQL?
