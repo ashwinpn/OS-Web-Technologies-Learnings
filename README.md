@@ -1,6 +1,14 @@
 # OS-Web-Technologies-Learnings
 OS + Web Technologies
 
+## 3-30-2020
+- Cache(SRAM) -> Main Memory(DRAM) -> Disk Storage (Magnetic + SDD).
+- DDR , QDR (Double Data Rate, Quad Data Rate)
+- Cache managed by Hardware, Main Memory managed by OS Memory Management, and Disk managed by OS
+- Base and Limit Registers comparison : Dynamic translation of virtual memory to physical memory - how important is relocation?
+- Data and code segements
+
+
 ## 3-26-2020
 - Tree Shaking : https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking
 
