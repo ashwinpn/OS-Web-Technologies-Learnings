@@ -1,6 +1,8 @@
 # OS-Web-Technologies-Learnings
 OS + Web Technologies
 
+- RAID (Redundant Array of Independent Disks) v/s (equivalent to) Single Large Expensive Disk (SLED).
+
 ## 3-30-2020
 - Cache(SRAM) -> Main Memory(DRAM) -> Disk Storage (Magnetic + SDD).
 - DDR , QDR (Double Data Rate, Quad Data Rate)
