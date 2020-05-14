@@ -1,5 +1,7 @@
 # OS-Web-Technologies-Learnings
 OS + Web Technologies
+## 5-14-2020
+- File Systems : Journaling File Systems (JFS), Virtual File Systems (VFS), Log-Structured File Systems (LFS), Network Files Systems (NFS). 
 
 - RAID (Redundant Array of Independent Disks) v/s (equivalent to) Single Large Expensive Disk (SLED).
 
